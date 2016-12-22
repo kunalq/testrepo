@@ -6,3 +6,5 @@
     ╚═╩╝
 
 :-D
+
+Beware the freeware.
