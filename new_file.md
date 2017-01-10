@@ -1,1 +1,3 @@
-# Some New File
+Hello, world
+
+Hi!
