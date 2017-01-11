@@ -1,4 +1,3 @@
-# Some New File
-Blah blah blah
+Hello, world
 
-Test test test
+Hi!
